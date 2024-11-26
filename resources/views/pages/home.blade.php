@@ -104,6 +104,10 @@
 
     <style>
         /* Navbar and Brand */
+        body{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
         .brand-highlight {
             color: #327af7;
             font-weight: bold;
